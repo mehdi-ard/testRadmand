@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default 1`] = `
+Array [
+  <span
+    className="ant-typography"
+    style={
+      Object {
+        "WebkitLineClamp": null,
+      }
+    }
+  >
+    
+  </span>,
+  <button
+    aria-checked={false}
+    className="ant-switch"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    role="switch"
+    type="button"
+  >
+    <div
+      className="ant-switch-handle"
+    />
+    <span
+      className="ant-switch-inner"
+    />
+  </button>,
+]
+`;
+
+exports[`renders size 1`] = `
+Array [
+  <span
+    className="ant-typography"
+    style={
+      Object {
+        "WebkitLineClamp": null,
+      }
+    }
+  >
+    default
+  </span>,
+  <button
+    aria-checked={false}
+    className="ant-switch ant-switch-small"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    role="switch"
+    type="button"
+  >
+    <div
+      className="ant-switch-handle"
+    />
+    <span
+      className="ant-switch-inner"
+    />
+  </button>,
+]
+`;
+
+exports[`renders with label 1`] = `
+Array [
+  <span
+    className="ant-typography"
+    style={
+      Object {
+        "WebkitLineClamp": null,
+      }
+    }
+  >
+    default
+  </span>,
+  <button
+    aria-checked={false}
+    className="ant-switch"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    role="switch"
+    type="button"
+  >
+    <div
+      className="ant-switch-handle"
+    />
+    <span
+      className="ant-switch-inner"
+    />
+  </button>,
+]
+`;
+
+exports[`renders with text 1`] = `
+Array [
+  <span
+    className="ant-typography"
+    style={
+      Object {
+        "WebkitLineClamp": null,
+      }
+    }
+  >
+    
+  </span>,
+  <button
+    aria-checked={false}
+    className="ant-switch"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    role="switch"
+    type="button"
+  >
+    <div
+      className="ant-switch-handle"
+    />
+    <span
+      className="ant-switch-inner"
+    >
+      OFF
+    </span>
+  </button>,
+]
+`;
